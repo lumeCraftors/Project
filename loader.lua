@@ -1,5 +1,5 @@
 -- ✅ CONFIGURATION
-local keySystemURL = "https://yourrepo.com/keysystem.lua" -- Replace with actual URL
+local keySystemURL = "https://raw.githubusercontent.com/lumeCraftors/Project/refs/heads/main/keysystem.lua" -- Replace with actual URL
 local gameListURL = "https://yourrepo.com/gameslist.lua" -- Replace with actual URL
 
 -- ✅ NOTIFICATION FUNCTION
