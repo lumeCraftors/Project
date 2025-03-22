@@ -1,6 +1,6 @@
 -- ✅ CONFIGURATION
 local keySystemURL = "https://raw.githubusercontent.com/lumeCraftors/Project/refs/heads/main/keysystem.lua" -- Replace with actual URL
-local gameListURL = "https://yourrepo.com/gameslist.lua" -- Replace with actual URL
+local gameListURL = "https://raw.githubusercontent.com/lumeCraftors/Project/refs/heads/main/gameslist.lua" -- Replace with actual URL
 
 -- ✅ NOTIFICATION FUNCTION
 local function notify(title, text)
