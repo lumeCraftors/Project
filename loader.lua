@@ -1,4 +1,4 @@
-local gameListURL = "https://raw.githubusercontent.com/YOUR_REPO/GameList.lua" -- Replace with your actual GameList URL
+local gameListURL = "https://raw.githubusercontent.com/lumeCraftors/Project/refs/heads/main/gameslist.lua" --GameList URL
 
 local function notify(title, text, duration)
     game:GetService("StarterGui"):SetCore("SendNotification", {
