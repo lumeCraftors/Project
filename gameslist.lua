@@ -1,5 +1,5 @@
 local gameScripts = {
-    [1234567890] = "https://raw.githubusercontent.com/YOUR_REPO/Script1.lua", -- Replace with actual game IDs & scripts
+    [1234567890] = "https://raw.githubusercontent.com/lumeCraftors/Project/refs/heads/main/Supported%20Game/TestScript.lua", -- Replace with actual game IDs & scripts
     [9876543210] = "https://raw.githubusercontent.com/YOUR_REPO/Script2.lua"
 }
 
